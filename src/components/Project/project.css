@@ -1,0 +1,32 @@
+.project__body {
+  border: 1px solid #1D1825;
+  background-color: #100A1B;
+  border-radius: 15px;
+  padding: 10px 0;
+  margin: 10px 0;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #46434E;
+}
+
+.project__body-content {
+  width: 80%;
+}
+
+.project__body-content_description {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.project__body-content_technologies {
+  color: #5a5a5a;
+}
+
+.project__body-content_id {
+  font-size: 16px;
+  text-align: right;
+  color: rgb(136, 137, 138);
+}

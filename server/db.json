@@ -1,0 +1,78 @@
+{
+  "portfolioData": [
+    {
+      "id": 1,
+      "title": "Адаптивная верстка сайта лендинга для итальянского ресторана",
+      "technologies": "HTML CSS JavaScript React",
+      "teg": "lending"
+    },
+    {
+      "id": 2,
+      "title": "Адаптивная верстка сайта лендинга для компании по разработке искуственного интеллекта",
+      "technologies": "HTML CSS JavaScript React",
+      "teg": "lending"
+    },
+    {
+      "id": 3,
+      "title": "Backend авторизации  финтех компании",
+      "technologies": "JavaScript NodeJS Express PostgreSQL JWT Postman Swagger",
+      "teg": "backend"
+    },
+    {
+      "id": 4,
+      "title": "Интерфейс (Frontend) панели администратора  корпоративного приложения для обучения английскому языку",
+      "technologies": "HTML CSS JavaScript React Postman Swagger Effector",
+      "teg": "frontend"
+    },
+    {
+      "id": 5,
+      "title": "Backend панели администратора  корпоративного приложения для обучения английскому языку",
+      "technologies": "JavaScript NodeJS Express PostgreSQL JWT Postman Swagger",
+      "teg": "backend"
+    },
+    {
+      "id": 6,
+      "title": "Игра шахматы",
+      "technologies": "TypeScript",
+      "teg": "frontend"
+    }
+  ],
+
+  "blogData": [
+    {
+      "id":1,
+      "title": "Хабины",
+      "img": "https://cdn.lifehacker.ru/wp-content/uploads/2019/05/Xibiny_1599817901-630x315.jpg",
+      "text": "Хиби́ны (кильд.-саамск. Умптек) — крупнейший горный массив на Кольском полуострове. Геологический возраст — около 390 млн лет",
+      "date": "12.23.2004"
+    },
+    {
+      "id":2,
+      "title": "Бали",
+      "img": "https://goodtimetravel.ru/wp-content/uploads/2016/12/bali-1.jpg",
+      "text": "Ба́ли (балийск.Bali) — остров в Малайском архипелаге, в группе Малых Зондских островов, в составе одноимённой провинции Индонезии. Омывается с юга Индийским океаном, с севера — морем Бали Тихого океана.",
+      "date": "20.03.2003"
+    },
+    {
+      "id":3,
+      "title": "Лондон",
+      "img": "https://www.kaplaninternational.com/files/styles/hero_banner_md/public/school/gallery/kaplan-english-school-in-London-4.jpg?itok=RhkxxF50",
+      "text": "Ло́ндон (англ. London [lʌndən] Информация о файле слушать) — столица и крупнейший город Англии и Великобритании.",
+      "date": "04.08.2002"
+    },
+    {
+      "id":4,
+      "title": "Нью-Йорк",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/266px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+      "text": "Нью-Йо́рк (англ. New York City) — крупнейший город США[5][6], входящий в одну из крупнейших агломераций мира",
+      "date": "23.05.2001"
+    },
+    {
+      "id":5,
+      "title": "Камчатка",
+      "img": "https://public.mishka.travel/images/two_square_mini/21905.jpg",
+      "text": "Камча́тка — полуостров в северо-восточной части Евразии на территории России. Омывается с запада Охотским морем, с востока — Беринговым морем и Тихим океаном.",
+      "date": "21.12.2000"
+    }
+  ]
+}
