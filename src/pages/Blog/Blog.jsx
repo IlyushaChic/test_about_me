@@ -11,7 +11,8 @@ const Blog = () => {
   return (
     <div className="blog__container">
       <div className="blog__body">
-        {datas.map((el,index) => (
+
+        {datas.length? datas.map((el,index) => (
           <BlogItem
           key={index}
             title={el.title}
@@ -19,7 +20,7 @@ const Blog = () => {
             text={el.text} 
             date={el.date}
           />
-        ))}
+        )): <div> Посты не найдены</div>}
       </div>
     </div>
   );
