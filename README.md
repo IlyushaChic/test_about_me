@@ -16,3 +16,4 @@ Runs the app in the development mode.\
 
 
 
+:exclamation: This is the minimum version, since there was not much time for implementation (at the time of the task, there were birthdays of friends that I couldn’t miss in any way ...)))
